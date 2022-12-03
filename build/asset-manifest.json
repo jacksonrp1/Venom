@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c90dba98.css",
+    "main.js": "/static/js/main.d1fa7bf2.js",
+    "static/js/787.4c201368.chunk.js": "/static/js/787.4c201368.chunk.js",
+    "static/media/video-venom2.mp4": "/static/media/video-venom2.1a94ea608fe6fe1a9359.mp4",
+    "static/media/venom-2.png": "/static/media/venom-2.6f18b41207607a2cfaf0.png",
+    "static/media/Venom_Let_There_Be_Carnage_logo.jpg.webp.png": "/static/media/Venom_Let_There_Be_Carnage_logo.jpg.webp.2152d1d236ce932e95c1.png",
+    "static/media/venom-eye.png": "/static/media/venom-eye.c64c8e5627ff09c29860.png",
+    "index.html": "/index.html",
+    "main.c90dba98.css.map": "/static/css/main.c90dba98.css.map",
+    "main.d1fa7bf2.js.map": "/static/js/main.d1fa7bf2.js.map",
+    "787.4c201368.chunk.js.map": "/static/js/787.4c201368.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c90dba98.css",
+    "static/js/main.d1fa7bf2.js"
+  ]
+}
