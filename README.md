@@ -9,7 +9,7 @@
 
 # Projeto Venom
 
-### <a href="https://jacksonrp1.github.io/Venom/build/">Clique aqui</a> para visualizar o projeto concluído.
+### <a href="index.html">Clique aqui</a> para visualizar o projeto concluído.
 
 #### Scripts Disponíveis
 
@@ -23,4 +23,4 @@ git clone https://github.com/jacksonrp1/galeria.git
 npm install
 ```
 
-Inspirado no projeto de <a href="https://nyousefali.com.br/spiderman/">>Násser Yousef</a
+Inspirado no projeto de <a href="https://nyousefali.com.br/spiderman/">Násser Yousef</a>
