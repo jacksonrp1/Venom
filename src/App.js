@@ -1,7 +1,7 @@
-import './App.css'
+import './styles.css'
 import video from './img/video-venom2.mp4'
 import eye from './img/venom-eye.png'
-import venomLogo from './img/Venom_Let_There_Be_Carnage_logo.jpg.webp.png'
+import venomLogo from './img/LogoVenom.png'
 import venomBody from './img/venom-2.png'
 import xBox from './img/x-box-logo.png'
 import playStation from './img/playstation-logo.png'
@@ -21,7 +21,7 @@ function App() {
       <motion.div
         initial={{ x: 0, opacity: 1 }}
         animate={{ x: 2000, opacity: 0 }}
-        transition={{ duration: 0.8, delay: 3, duration: 2 }}
+        transition={{ delay: 3, duration: 2 }}
         className="logo"
       >
         <img src={eye} alt="" />
